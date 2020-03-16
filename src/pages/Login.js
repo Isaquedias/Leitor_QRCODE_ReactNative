@@ -18,7 +18,7 @@ export default function Login({navigation}) {
 
 
   async function handleSubimit(){
-    navigation.navigate('List')
+    navigation.navigate('QRCode')
     
   }
 
